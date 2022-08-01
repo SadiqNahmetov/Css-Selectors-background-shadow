@@ -1,0 +1,66 @@
+body{
+    font-family: montserrat;
+    background-color: #415163;
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1{
+    text-align: center;
+    margin-left: 85px;
+}
+
+
+.main-form{
+    text-align: center;
+    width: 800px;
+    height: 650px;
+    border-radius: 20px;
+    background-color: white;
+    margin-left: 450px;
+    
+}
+
+
+.sub{
+    width: 100px;
+    height: 40px;
+    background-color: #5894d8;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 300px;
+    
+}
+
+.sub:hover{
+    background-color: #579FF0;
+}
+
+.yas{
+    width: 50px;
+    border-radius: 4px;
+}
+
+.boy{
+    width: 50px;
+    border-radius: 4px;
+}
+
+.ceki{
+    width: 50px;
+    border-radius: 4px;
+}
+
+.ad{
+    border-radius: 4px;
+}
+
+.soyad{
+    border-radius: 4px;
+}
+
+.sifre{
+    border-radius: 4px;
+}
